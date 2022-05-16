@@ -79,6 +79,10 @@ section {
   outline: 0;
 }
 
+.hamburger:hover {
+  color: #f4a47c;
+}
+
 /*banner styles start here*/
 
 #banner {
